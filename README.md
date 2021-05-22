@@ -14,4 +14,6 @@ Reference:
 
 https://zhishenyong.com/ecc-asymmetric-encryption
 
-https://mkyong.com/java/java-asymmetric-cryptography-example/
+https://mkyong.com/java/java-asymmetric-cryptography-example
+
+https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc
